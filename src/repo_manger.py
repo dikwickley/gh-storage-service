@@ -16,7 +16,7 @@ class RepoManger(abc.ABC):
         pass
 
     @abc.abstractmethod
-    def upload(self, repo_name: str, meta: Meta):
+    def upload(self, meta: Meta, chunk_dir: str):
         pass
 
     @abc.abstractmethod
