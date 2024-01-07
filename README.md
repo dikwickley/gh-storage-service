@@ -1,4 +1,4 @@
-## Chunked Storage Service
+## GH Storage Service
 
 The idea is simple. Chunk your data into multipe repositories.  
 Infinite Repos = Infinite Storage.
